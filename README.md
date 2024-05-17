@@ -12,8 +12,6 @@ This Web Application provide authentication for admin and receptionist. Admin ca
 
 # Team Members:
 - Harsh Godkar
-  - Roll no : CE043
-  - Student Id. : 21CEUSF147
 
 # Instruction for Run this asp.net project:
 1. Clone the This Project:
